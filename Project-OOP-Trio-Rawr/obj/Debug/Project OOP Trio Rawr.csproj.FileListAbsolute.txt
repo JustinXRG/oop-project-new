@@ -1,0 +1,10 @@
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\bin\Debug\Project OOP Trio Rawr.exe.config
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\bin\Debug\Project OOP Trio Rawr.exe
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\bin\Debug\Project OOP Trio Rawr.pdb
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project OOP Trio Rawr.csproj.AssemblyReference.cache
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project_OOP_Trio_Rawr.Form1.resources
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project_OOP_Trio_Rawr.Properties.Resources.resources
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project OOP Trio Rawr.csproj.GenerateResource.cache
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project OOP Trio Rawr.csproj.CoreCompileInputs.cache
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project OOP Trio Rawr.exe
+C:\Users\MSI BRAVO\Source\Repos\Mikaeldwsn\Project-OOP-Trio-Rawr\obj\Debug\Project OOP Trio Rawr.pdb
